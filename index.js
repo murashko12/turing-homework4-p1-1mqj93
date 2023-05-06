@@ -1,3 +1,5 @@
+import './style.css';
+
 // Задание №1
 // Создайте в LocalStorage пустой объект localData, с ним в дальнейшем и будем работать
 const object = {};
